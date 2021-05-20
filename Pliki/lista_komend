@@ -1,0 +1,33 @@
+Lista komend - Pokazuje liste komend
+Zmien moj kolor <kolor> - Zmienia kolor twojego tekstu
+Zmien twoj kolor <kolor> - Zmienia kolor mojego tekstu
+Baza kolorow - Pokazuje dostepne kolory
+Muzyka - Puszcza muzyke
+Policz <dzialanie> - Liczy wynik z podanego dzialania
+Silnia <liczba> - Liczy silnie z podanej liczby
+Srednia <Liczby> - Oblicza srednia z podanych liczb
+Mediana <liczby> - Liczy mediane z podanych liczb
+Segreguj <Liczby> - Segreguje liczby od najmniejszej do najwiekszej
+Liczba pierwsza <liczba> - Sprawdza czy liczba jest pierwsza
+Dzielenie z reszta <liczby> - Podaje wynik z dzielenia i reszte z dzielenia z podanych liczb
+Modulo <liczby> - Podaje reszte z dzielenia
+Systemy liczeniowe - Przelicza liczby pomiedzy systemami liczeniowymi
+Procent - Liczy procent z liczb ew. liczbe na podstawie 100 % tej liczby i innej liczby itp.
+Losuj <zakres> - Losuje liczbe z podanego zakresu
+Palindrom - Sprawdza czy napis jest palindromem
+Zapisz <tekst> - Zapisuje tekst w do schowka
+Odczytaj - Odczytuje tekst ze schowka
+Dopisz <tekst> - Dopisuje tekst do schowka
+Wyczysc plik - Czysci schowek
+Sprawdz dzien tygodnia - Sprawdza dzien tygodnia dla podanej daty
+Godzina w innym kraju - Sprawdzi godzine w podanym kraju
+Godzina w innym miescie - Sprawdzi godzine w podanym miescie
+Uzyj wzoru - W trakcie
+Zaloguj - Mozna zalogowac sie na swoje konto
+Wyloguj - Wylogowuje uzytkownika
+Zarejestruj - Pozwala stworzyc swoje konto
+Usun konto - Usuwa konto na ktore jestes zalogowany
+Komunikator - Odpala komunikator (Niedlugo dostepne dla kazdego podlaczonego uzytkownika)
+Kolko i krzyzyk - pozwala grac w kolko i krzyzyk
+Liczba Pi - Pokazuje rozszerzenie stalej fizycznej pi
+Zegnaj - Wylacza mnie

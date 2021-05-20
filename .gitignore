@@ -1,0 +1,4 @@
+*obj/
+*.objs/
+*.layout
+*.depend

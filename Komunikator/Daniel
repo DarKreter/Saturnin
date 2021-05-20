@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
+  <s:exception>Doctrine\DBAL\Exception\DeadlockException</s:exception>
+  <s:message>An exception occurred while executing 'UPDATE `oc_file_locks` SET `lock` = `lock` + 1, `ttl` = ? WHERE `key` = ? AND `lock` &gt;= 0' with params [1593174772, "files\/58e9452a99db033c4c5ff266534e85f6"]:
+
+SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction</s:message>
+</d:error>
+zy przyjde
+Daniel: i nie wiem czy przyjsc
+Daniel dolaczyl do czatu!
+Daniel: Ty alex
+Daniel: Partyjka ttt ?
+Daniel: No to wyzwe cie
+Daniel: wyzwalem cie juz
+Daniel: ale ja twoje wylaczylem
+Daniel: i wyzwalem ciebie
+Daniel: takze mozesz spokojnie to tt wylaczyc
+Daniel: i odpalic glownego
+Daniel: chociaz czekaj
+Daniel: bo wlasnie skonczylem pisac zeby bylo kolorami
+Daniel: to sprawdze czy dziala i dam tu znac
+Daniel: prawie dziala give a moment
+Daniel: wlasnie zauwazylem
+Daniel: Jak sie robi wyskakiwanie dzwieku ?
+Daniel: dodalbym wtedy tez w ttt
+Daniel: czekaj zapisze tu
+Daniel: przyjmujacy ma problem z wczytaniem koloru, a wyzywajacy robi dobrze ale zaslania po chwili zlym
+Daniel: wiem walne sobie top do schowka
+Daniel: po to go mamy
+Daniel: cholera jak zrobic entera w schowku
+Daniel: ej co teraz robisz ?
+Daniel: w sensie termin ?
+Daniel: chcesz dzis jako dzien przerwy ?
+Daniel: to ja dam ci na jutro zadanie tylko bo zapomne
+Daniel: wymysl i dodaj entery w schwoku
+Daniel: a kolor dziala juz u jednego goscia nawet
+Daniel: a drugi po prostu zle z pliku wczytuje
+Daniel: entery to proscizna takze jeden dzien dasz rade
+Daniel: no i jak juz ruszysz schowek zrob tak zeby jak zmienie kolor w glownym saturninie on tez zmienil swoj kolor
+Daniel: kolor schowka w sensie
+Daniel: rozumiesz /
+Daniel: dobra
+Daniel: sprawdzmy kolory wyzwyam cie
+Daniel: fuck
+Daniel: zajrzyj
+Daniel: do plikow
+Daniel: CZAS KONFLIKT
+Daniel: jeszcze dzis dodam zeby bylo wygrales 
+Daniel: albo przegrales
+Daniel: a ty zobacz czas konflikt
+Daniel: usunalem sekunde temu
+Daniel: o juz sa dwa
+Daniel: ale mi sie podobaaaaa ze piszemy tutaj
+Daniel: i jeszcze gramy w kolko i krzyzyyyyyk
+Daniel: a ja nawet ze schwoka korzystam
+Daniel: zobacz w glownym saturninie do sleszy dodalem ciekawa propozycje
+Daniel: twoj slesz wlasciwie ulepszylem
+Daniel: ten z usprawnianiem
+Daniel: no bo napisales ze moze byc funckja error112
+Daniel: a ja mysle zeby byla funckja ktora sprawdza czy jest error 112 a ona sprawdza czy jest cos poza liczba
+Daniel: i np 3 podanymi wyjatkami
+Daniel: i funckja liczaca spacje
+Daniel: dobra to dzis robisz ten czas konflikt bo sie pojawil znowu jutro zajmujesz sie schowkiem
+Daniel: okej teraz dawaj ty mnie zapros
+Daniel: powinno juz dzialac z wygrales i przegrales
+Daniel: przeczytales ?
+Daniel: wyzywaj mnie pan
+Daniel: niemozliwe bo nawet pliku z wyzwaniem Daniela nie ma
+Daniel: zapros mnie jeszcze raz
+Daniel: wszystkp jasne "nie udalo sie zsynchronizowac jednego elementu"
+Daniel: aa
+Daniel: to jak tam wyzywasz mnie jeszcze raz ?
+Daniel: i mam propozycje jak masz odpalonego kompa to miej odpalonego saturnina komunikator
+Daniel: bedzie fajniej
+Daniel: dam ci wygrac zeby sprawdzic wygrywanie
+Daniel: go with me now
+Daniel: DOBRA PIOSENKA
+Daniel: ZOBACZ
+Daniel opuscil czat...
+Daniel dolaczyl do czatu!
+Daniel: Tum tum tum
+Daniel opuscil czat...
+Daniel dolaczyl do czatu!
+Daniel: Witam
+Daniel opuscil czat...
+Daniel dolaczyl do czatu!
+Daniel: Witam Paästwa
+Daniel: Ciekawe kiedy˜ kto˜ odwiedzi najlepsz¥ forme komunikacji
+Daniel dolaczyl do czatu!
+Daniel: O witam
+Daniel: To co partyjka w kolko i krzyzyk
+Daniel: ja cie wyzwe
+Daniel: ciekawe co teraz zrobisz
+Daniel: wygrales
+Daniel: bo moj kolor programu byl zielony
+Daniel: ale nie jestem pewien
+Daniel: nie pamietam
+Daniel: prezentuje saturnina cioci
+Daniel: ilez bledow xD
+Daniel: w tym tt
+Daniel: ttt*
+Daniel: Az chyba muisze dzis poprawic
+Daniel: juz cie wyzwalem
+Daniel: piszesz na czerwonoo
+Daniel: wyzwalem
+Daniel: jeszcze nie odczytales u mnie
+Daniel: W pliku txt nawet sprawdzilem
+Daniel: Jest wiadomosc ze wyzywam
+Daniel: Tylko twoj program nie przeczytal
+Daniel: na glownym jestes zalogowany ?
+Daniel: Plik "Alex" w folderze ttt
+Daniel: u mnie pelny
+Daniel: ja cie mam na czerwono
+Daniel: piszesz na czerwono tutaj tez xD
+Daniel: Nie u mnie tylko u wyzywajacego
+Daniel: teraz ty mnie a okaze sie prawda
+Daniel: dobraa
+Daniel: jestes na zielono
+Daniel: A ty jaki masz kolor swojego saturnina
+Daniel: pokaz ss
+Daniel: Ty nadal na zielono
+Daniel: czyli blad jest u przyjmujacego
+Daniel: Mam wieczoooor od takich spraw z toba do pomocy na kanale
+Daniel: sam nie czuje sie brave enough
+Daniel: juz
+Daniel: ja idee
+Daniel: bywaj
+Daniel opuscil czat...
+Daniel dolaczyl do czatu!
+Daniel: dzien dobry
+Daniel: a wlasciwie dobry wieczor
+Daniel: polecam obczaic moj najnowszy dodac w mojej playliscie
+Daniel: login Daniel
+Daniel: haslo 2567
+Daniel: = ]
+Daniel: /wtjdz
+Daniel opuscil czat...
+Daniel dolaczyl do czatu!
+Daniel: Witam
+Daniel: Coz za czesto uzywana platforma szanuje
+Daniel opuscil czat...
+Daniel dolaczyl do czatu!
+Daniel: hej
+Daniel: witam
+Daniel opuscil czat...
+Daniel dolaczyl do czatu!
+Daniel dolaczyl do czatu!
+Daniel: lol

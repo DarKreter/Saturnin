@@ -1,0 +1,110 @@
+1.DOSTEPNE DZIALANIA I KOMENDY
+"/pomoc" - Wyswietla Okienko pomocy
+"/wyjdz" - Wychodzi z funkcji
+"/czysc" - Czysci ekran
+
+"x+y" - Dodawanie
+EXAMPLE: 2+2 -> 2 dodac 2
+
+"x-y" - Odejmowanie
+EXAMPLE: 2-2 -> 2 odjac 2
+
+"x*y" oraz "axb" - Mnozenie
+EXAMPLE: 2*2 -> 2 razy 2
+
+"x/y" oraz "a:b" - Dzielenie
+EXAMPLE: 2/2 -> 2 podzielic przez 2
+
+"x%y" - Modulo
+EXAMPLE: 2%3 -> Liczenie reszty z dzielenia 2 przez 3
+
+"x^y" - Do potegi
+EXAMPLE: 2^2 -> 2 do 2 potegi
+
+"x rt y" - Pierwiastkowanie
+EXAMPLE: 2rt4 -> Pierwiastek 2 stopnia z 4
+
+"sqrt x" - Pierwiastek kwadratowy
+EXAMPLE: sqrt2 -> Pierwiastek kwadratowy z 2
+
+"cbrt x" - Pierwiastek szescienny
+EXAMPLE: cbrt2 -> Pierwiastek szescienny z 2
+
+"x!" - Silnia
+EXAMPLE: 2! -> 2 silnia
+
+"log x(y)" - Logarytm
+EXAMPLE: log2(4) -> Logarytm przy podstawie 2 z 4
+
+"log(x)"
+EXAMPLE: log(10) -> Logarytm przypodstawie 10 z 10
+
+"ln(x)"
+EXAMPLE: log(10) -> Logarytm przy podstawie e z 10
+
+"|x|" - Wartosc bezwgledna
+EXAMPLE: |2| -> Wartosc bezwgledna z 2
+
+"srednia{x, y, z}" - Srednia
+EXAMPLE: srednia{2,3,4} -> Srednia z liczb: 2, 3, 4
+
+"mediania{x, y, z}" - Mediana
+EXAMPLE: mediana{2,3,4} -> Mediana z liczb: 2, 3, 4
+
+"(dzialnie1)*dzialanie2" - Nawiasy
+EXAMPLE: (2+3)*4 -> Dzialania w nawiasach maja pierwszenstwo
+
+"sin x" - Sinus
+EXAMPLE: sin 90 -> Liczy Sinus z liczby przy podanej liczbie stopni
+
+"cos x" - Cosinus
+EXAMPLE: cos 45 -> Liczy Cosinus z liczby przy podanej liczbie stopni 
+
+"tan x" - Tangens
+EXAMPLE: cos 60 -> Liczy Tangens z liczby przy podanej liczbie stopni 
+
+"ctg x" - Cotangens
+EXAMPLE: ctg 30 -> Liczy Cotangens z liczby przy podanej liczbie stopni 
+
+"pi" - Liczba pi
+EXAMPLE: pi * 2 -> 2 razy 3,141592 (Podstawia za PI jej wartosc)
+
+"e" - Liczba e
+EXAMPLE: 2e -> 2 raz 2,718281 (Podstawia za liczbe e jej wartosc)
+
+"abs" - Poprzedni wynik
+(Podstawia za "abs" poprzedni wynik ktory uzyskalismy)
+
+"x[y]" - Zmiana systemu liczbowego
+EXAMPLE: FF[16] -> 255 (zmienia liczbe "x" z systemu "y" na dziesiatkowy)
+ 
+<- Aby przewinac w lewo nalezy kliknac "A"	   Aby przewinac w prawo nalezy kliknac "D" ->
+2.TIPS
+
+x(y+z) <- IS EQUAL TO -> x*(y+z)
+
+2e <- IS EQUAL TO -> 2*e
+
+Wielkosc liter, polskie znaki oraz spacje nie graja roli
+EXAMPLE: S R edn i  a {  x ,  y   } <- IS EQUAL TO -> srednia{x,y}
+
+x--y <- IS EQUAL TO -> x+y
+
+x+-y <- IS EQUAL TO -> x-y
+
+|x||x| <- IS EQUAL TO -> |x|*|x|
+
+Aby zrobic wartosc bezwgledna z wartosci bezwzglednej nalezy zapisac tak: |dzialanie1*(|dzialanie2|)|
+
+<- Aby przewinac w lewo nalezy kliknac "A"	   Aby przewinac w prawo nalezy kliknac "D" ->
+3.ZBIOR DZIALAN ZAKAZANYCH
+
+Dzielenie przez 0
+
+Pierwiastkowanie z 0 podstawa
+
+Pierwiastkowanie ujemnych liczb parzystym wykladnikiem
+
+Dziedzina podstawy logarytmu to (0,1)(1,+nieskonczonosc)
+
+<- Aby przewinac w lewo nalezy kliknac "A"	   Aby przewinac w prawo nalezy kliknac "D" ->

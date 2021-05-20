@@ -1,0 +1,50 @@
+#include <windows.h>
+#include <iostream>
+#include <cstdlib>
+#include "..\Pliki\funkcje.h"
+#include <string>
+#include <fstream>
+#include <math.h>
+#include <time.h>
+#include <cctype>
+#include <list>
+#include <conio.h>
+#include <vector>
+
+using namespace std;
+
+int main()
+{
+
+    string odpowiedz_losowa[] = {"Wylosowana liczba to ","Wylosowalem ","Wypadlo mi ",
+                                 "Wychodzi ze wylosowana liczba to ",
+                                 "Wypadla mi liczba ","Na podstawie twojej godziny wypadla mi nastepujaca liczba "
+                                }, odp;
+    fstream plik; int wynik;
+    int kolor_saturnina, nasz_kolor;
+    plik.open("C:/Program Files/Saturnin/kolory",ios::out|ios::app); ///TU
+    plik.close();
+    plik.open("C:/Program Files/Saturnin/kolory",ios::in); ///TU
+    if(plik.good()==false){czy_wszystko_ok= false; sprawdzacz_bledow(0);}
+    plik >> kolor_saturnina >> nasz_kolor;
+    plik.close();
+
+    for(;;)
+    {
+        saturnin_mowi(kolor_saturnina);
+        cout << "Podaj minimum i maximum przedzialu z ktorej mam wylosowac liczbe: ";
+        saturnin_mowi(nasz_kolor);
+        getline(cin,odp);
+        saturnin_mowi(kolor_saturnina);
+    wynik = losowanie(odp);
+    int los = rand() % 5 ;
+    if(czy_wszystko_ok==false)
+    {
+        sprawdzacz_bledow(wynik);
+        break;
+    }
+    if(rand() % 20 == 0)    cout << odpowiedz_losowa[5]   << wynik << endl;
+    else                    cout << odpowiedz_losowa[los] << wynik << endl;
+    }
+    return 0;
+}
